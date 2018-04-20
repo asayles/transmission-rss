@@ -1,0 +1,14 @@
+{
+    "big bang theory": {
+        "11": [
+            "21"
+        ], 
+        "directory": "/tv/the_big_bang_theory"
+    }, 
+    "greys anatomy": {
+        "directory": "/tv/greys_anatomy"
+    }, 
+    "the walking dead": {
+        "directory": "/tv/the_walking_dead"
+    }
+}
